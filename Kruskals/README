@@ -1,0 +1,11 @@
+Cameron Peeters
+capeeter@ucsc.edu
+ID: 1675143
+CSE102 - MWST Programming Assignment
+
+Files:
+	mwst.cpp
+	Makefile
+
+Abstract:
+	Implementation of kruskal's algorithm to find a mwst in C++.
